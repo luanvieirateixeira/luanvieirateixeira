@@ -2,7 +2,7 @@
 
 **`Auxiliar de TI - Infraestrutura`**
 
-Ola! Tenho 27 anos, moro em Cerquilho/SP e trabalho na Selene como Auxiliar de TI. Em 2025 fiz uma transicao de carreira para TI e foi amor a primeira vista. Hoje estudo todos os dias com foco total em Infraestrutura, Cloud e DevOps. Moro com minha noiva Paloma e nossos caes Beto e Chocolate.
+Ola! Tenho 27 anos, moro em Cerquilho/SP e trabalho na empresa Selene como Auxiliar de TI. Em 2025 fiz uma transicao de carreira para TI e foi amor a primeira vista. Hoje estudo todos os dias com foco total em Infraestrutura, Cloud e DevOps. Moro com minha noiva Paloma e nossos caes Beto e Chocolate.
 
 ---
 

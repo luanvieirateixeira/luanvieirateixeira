@@ -78,9 +78,11 @@ Ola! Tenho 27 anos, moro em Cerquilho/SP e trabalho na Selene como Auxiliar de T
 
 ### 🎓 Certificações
 
-LPI - Linux Essentials (Estudando ⏱️)
-<br/>
-Cisco Certified Network Associate (CCNA) 200-301 (Estudando ⏱️)
+LPI - Linux Essentials (Estudando ✍️)
+
+Cisco Certified Network Associate (CCNA) 200-301 (Planejada ⏱️)
+
+AWS Certified Cloud Practitioner (Planejada ⏱️)
 
 ---
 

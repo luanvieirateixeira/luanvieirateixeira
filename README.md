@@ -35,6 +35,16 @@ Ola! Tenho 27 anos, moro em Cerquilho/SP e trabalho na empresa Selene como Auxil
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg"
 />
 
+
+<img 
+    align="left" 
+    alt="Rocky Linux Server"
+    title="Rocky Linux Server"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rockylinux/rockylinux-original.svg"
+/>
+
 <img 
     align="left" 
     alt="Git"
@@ -77,13 +87,9 @@ Ola! Tenho 27 anos, moro em Cerquilho/SP e trabalho na empresa Selene como Auxil
 ---
 
 ### 🎓 Certificações
-
-LPI - Linux Essentials (Estudando ✍️)
-
-Cisco Certified Network Associate (CCNA) 200-301 (Planejada ⏱️)
-
-AWS Certified Cloud Practitioner (Planejada ⏱️)
-
+- 🟡 LPI - Linux Essentials *(em andamento)*
+- ⏳ CCNA 200-301 *(planejada)*
+- ⏳ AWS Cloud Practitioner *(planejada)*
 ---
 
 ### 📊 Estatísticas

@@ -19,8 +19,8 @@ Ola! Tenho 27 anos, moro em Cerquilho/SP e trabalho na Selene como Auxiliar de T
 
 <img 
     align="left" 
-    alt="Linux"
-    title="Linux" 
+    alt="Windows"
+    title="Windows" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original-wordmark.svg"

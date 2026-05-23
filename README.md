@@ -47,6 +47,15 @@ Ola! Tenho 27 anos, moro em Cerquilho/SP e trabalho na empresa Selene como Auxil
 
 <img 
     align="left" 
+    alt="Docker" 
+    title="Docker"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"
+/>
+
+<img 
+    align="left" 
     alt="Git"
     title="Git"
     width="30px" 
@@ -92,11 +101,11 @@ Ola! Tenho 27 anos, moro em Cerquilho/SP e trabalho na empresa Selene como Auxil
 
 <img 
     align="left" 
-    alt="Docker" 
-    title="Docker"
+    alt="Bash" 
+    title="Bash"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg"
 />
 
 <br/>

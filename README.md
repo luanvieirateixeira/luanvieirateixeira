@@ -116,8 +116,8 @@ Ola! Tenho 27 anos, moro em Cerquilho/SP e trabalho na empresa Selene como Auxil
 ### 🎓 Certificações
 - ✅ LPI - Linux Essentials *(concluída 05/2026)*
 - 🟡 AWS Cloud Practitioner *(estudando)*
+- ⏳ AWS Solutions Architect Associate *(planejada)*
 - ⏳ Linux Professional Institute LPIC-1 *(planejada)*
-- ⏳ CCNA 200-301 *(planejada)*
 ---
 
 ### 📊 Estatísticas

@@ -69,7 +69,7 @@ Ola! Tenho 27 anos, moro em Cerquilho/SP e trabalho na empresa Selene como Auxil
     title="GitHub"
     width="30px" 
     style="padding-right: 10px;" 
-    src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg](https://cdn-icons-png.flaticon.com/512/779/779088.png)"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"
 />
 
 <img 
